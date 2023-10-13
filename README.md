@@ -12,4 +12,5 @@ You can increase the maximum size of characters to search for the password on li
 As this is my first code with python, could you give me some feedback on the code I've produced and also your improvements so that I can learn new things. 
 Thank You.
 
-https://github.com/KrisDevel0pment/Files-Cracker-with-selector/blob/main/Sans%20titre.png?raw=true 
+![Sans titre](https://github.com/KrisDevel0pment/Files-Cracker-with-selector/assets/83578086/758d7373-8f55-4cea-aca6-277e3f99e0be)
+![Sans titre 2png](https://github.com/KrisDevel0pment/Files-Cracker-with-selector/assets/83578086/e326498a-060c-4aeb-a649-191322a05c98)
