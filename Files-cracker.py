@@ -1,4 +1,5 @@
 import fitz
+import pyzipper
 import itertools
 import time
 from colorama import init, Fore, Style
